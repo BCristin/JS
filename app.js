@@ -6,4 +6,3 @@ const abj = {
 };
 
 console.log(abj);
-console.log(abj);
