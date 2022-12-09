@@ -242,3 +242,38 @@ const personalMovieDB = {
 };
 
 //#endregion
+
+//#region //! exersat
+
+/*
+console.log(parseInt("15.2px", 10));
+console.log(!!(12 && 8));
+
+document.getElementById("box");
+document.getElementsByTagName("button");
+document.getElementsByClassName("circle");
+let x = document.querySelectorAll(arr); // ar poate fi , #id, .class. div etc...
+document.querySelectorAll(arr).forEach((item) => {}); // merge cu forEach
+
+const div = document.createElement("div");
+document.createTextNode("Mesaj fara tag");
+div.classList.add("black"); // adaugam la div class black
+document.body.append(div); // adaugam la final de pagina div
+document.querySelector(".wrapper").append(div);//adauga in containerul wrapper div-ul creat anterior
+document.body.prepend(div); // adaugam la inceput de pagina
+x[0].before(div); // adauga inainte de elemenul x[0]
+x[0].after(div); // adauga dupa elementru x[0]
+x[0].remove(); // sterge elementul x[0]
+x[0].replaceWith(x[2]); // x[0] schimba cu x[2]
+
+div.innerHTML = "<h1>hello</h1>"; // pune in interiorul la div codul
+div.textContent = "Hello";//pune in interiorul textul, daca se transmite ca cod se va afisa ca text
+
+div.insertAdjacentHTML("afterbegin", "<h1>hello</h1>"); //
+div.insertAdjacentHTML("beforebegin", "<h1>hello</h1>"); //
+div.insertAdjacentHTML("beforeend", "<h1>hello</h1>"); //
+div.insertAdjacentHTML("afterend", "<h1>hello</h1>"); //
+
+*/
+
+//#endregion
